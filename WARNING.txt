@@ -1,0 +1,4 @@
+//** WARNING **
+//use the circuit or the pcb  provided ,to shift the 5v to 3.3v.
+//connecting the chip directly  to 5v ,will burn the chip.
+//check DF.h file to see the pin connections.
